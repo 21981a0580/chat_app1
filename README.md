@@ -47,15 +47,35 @@ Open your browser and navigate to http://localhost:9000 to start using the chat 
 
 Usage
 Send Messages: Type your message and press "Send" to communicate in real-time with other users.
+
+
 Share Files: Use the "Choose file" button to upload files, which others can download.
+
+
 Real-time Feedback: Get notified when others join, send messages, or are typing.
+
+
 File Structure
+
+
 index.js: The main server file, sets up Express and Socket.io.
+
+
 public/: Contains the static files served by the server.
+
+
 client.js: Client-side JavaScript to handle socket events.
+
+
 style.css: Stylesheet for the chat interface.
+
+
 chim_tipak_dam_dam.mp3: Audio file for notification sounds.
+
+
 Future Improvements
+
+
 User Authentication: Add user login and registration for secure access.
 Persistent Chat History: Save chat history to a database.
 Custom Themes: Allow users to customize the chat theme.
