@@ -24,6 +24,17 @@ This is a real-time chat application built using the following technologies:
 - **Join Notifications**: Notify when a new user joins the chat.
 - **Message Read Receipts**: Shows when a message has been read.
 
+## demo Images
+![Screenshot 2024-08-27 224132](https://github.com/user-attachments/assets/e5a98d91-17b8-4f50-afeb-9d9525de8f2a)
+![Screenshot 2024-08-27 224247](https://github.com/user-attachments/assets/f69d6ed5-b60a-43c3-a370-f6c03366c949)
+![Screenshot 2024-08-27 224324](https://github.com/user-attachments/assets/da819316-2192-4ccc-9b55-1f88d29903a6)
+![Screenshot 2024-08-27 224338](https://github.com/user-attachments/assets/48f3f54b-c78a-47ea-a90c-fc44365b14e9)
+![image](https://github.com/user-attachments/assets/babec7b2-a63a-456b-b471-0ae789b35005)
+
+
+
+
+
 ## Installation
 
 1. Clone the repository:
