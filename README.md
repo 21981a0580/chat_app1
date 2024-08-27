@@ -103,7 +103,7 @@ Copy code
 
    ```bash
    touch README.md
-Add the above content to README.md.![OIP](https://github.com/user-attachments/assets/a1f17d95-1470-415a-80f0-59d531191095)
+Add the above content to README.md
 
 
 Add and commit the README to your repository:
