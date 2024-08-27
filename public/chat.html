@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real-Time Chat Application</title>
+    <!-- Socket.IO library -->
+    <script defer src="http://localhost:9000/socket.io/socket.io.js"></script>
+    <!-- Client-side JavaScript -->
+    <script defer src="client.js"></script>
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <img class="logo" src="OIP.png" alt="">
+        <h1>Welcome to my Chat Application</h1>
+    </nav>
+    <div class="container"></div>
+    <div class="send">
+        <form action="#" id="send-container">
+            <input type="text" name="messageInp" id="messageInp" placeholder="Type your message...">
+            <input type="file" id="fileInput" style="display:none;">
+            <label for="fileInput" class="file-label">Choose file</label>
+            <button class="btn" type="submit">Send</button>
+        </form>
+        <div id="typing-indicator"></div>
+    </div>
+</body>
+</html>
